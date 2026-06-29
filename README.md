@@ -43,5 +43,5 @@ This is just the first version! Here are some cool features I'm planning to add 
 
 * [ ] **View Menu:** Add an option at startup to actually read and search your saved passwords directly from the terminal.
 * [ ] **Auto-Copy to Clipboard:** Automatically copy the newly generated password so you can just press `Ctrl+V` on the website.
-* [ ] **Password Encryption:** Scramble the passwords inside the `passwords.db` file using the `cryptography` library so they aren't stored in plain text.
+* [ ] **Password Encryption:** Scramble the passwords inside the `Manager-passwords.db` file using the `cryptography` library so they aren't stored in plain text.
 * [ ] **Modern GUI:** Move away from the command line and build a clean, modern desktop window using `customtkinter`.
