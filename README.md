@@ -35,6 +35,7 @@ You only need Python 3 installed. No extra packages required!
 
 ```bash
 python generator.py
+```
 
 ## 📈 What's Next? (Roadmap)
 
